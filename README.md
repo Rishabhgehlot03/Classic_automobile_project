@@ -1,4 +1,4 @@
-# Classic_automobile_project
+# Classic_automobile
 
 This project is a **Business-to-Business (B2B)** sales and performance dashboard created using **Microsoft Excel** with Power Query, Power Pivot, and DAX.
 

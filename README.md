@@ -33,7 +33,7 @@ This project is a **Business-to-Business (B2B)** sales and performance dashboard
 ![order managment](https://github.com/user-attachments/assets/d22474bd-e8a3-422f-a0b2-904069dc61e8)
 
 
-### 5. Profitability Analysis
+### 5. Financial Analysis
 ![finance](https://github.com/user-attachments/assets/1963635a-7fad-41f3-ad58-7eed176a71a3)
 
 
@@ -41,8 +41,8 @@ This project is a **Business-to-Business (B2B)** sales and performance dashboard
 
 - Total Revenue: ₹96,04,190.61
 - Profit Margin: 39.84%
-- Time Taken: ~[15 days]
+- Time Taken: 15 days
 
 ---
 
-Made with 💡 by [Rishabh Gehlot]
+Made by Rishabh Gehlot

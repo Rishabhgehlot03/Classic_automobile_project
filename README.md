@@ -17,11 +17,25 @@ This project is a **Business-to-Business (B2B)** sales and performance dashboard
 - Power Pivot
 - DAX
 
-##  Files Included
+### 1. Sales Performance
+![sales performance](https://github.com/user-attachments/assets/34153737-b18f-45ca-b00c-4585d37cce16)
 
-- Excel Dashboard File (.xlsx)
-- Project Report / PDF Export
-- Sample Data (if any)
+
+### 2. Customer Insights
+![customer insights](https://github.com/user-attachments/assets/fea8a1c6-57d3-49f7-b986-b663a94912c0)
+
+
+### 3. Inventory Management
+![inventory management](https://github.com/user-attachments/assets/d369879d-f3bf-4ef9-bd29-bf36bc71fe55)
+
+
+### 4. Order Management
+![order managment](https://github.com/user-attachments/assets/d22474bd-e8a3-422f-a0b2-904069dc61e8)
+
+
+### 5. Profitability Analysis
+![finance](https://github.com/user-attachments/assets/1963635a-7fad-41f3-ad58-7eed176a71a3)
+
 
 ##  Outcome
 
@@ -31,4 +45,4 @@ This project is a **Business-to-Business (B2B)** sales and performance dashboard
 
 ---
 
-Made with 💡 by [Your Name]
+Made with 💡 by [Rishabh Gehlot]
